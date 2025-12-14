@@ -35,7 +35,6 @@ def solve_part1(three_lines,i):
 
 
 def main():
-    # 读入 AoC Day 3 的那一行输入
     with open('./input_day4.txt', 'r') as f:
         lines = [list(line.rstrip('\n')) for line in f]
     
